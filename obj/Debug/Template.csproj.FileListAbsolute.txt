@@ -1,0 +1,11 @@
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\bin\Debug\INFOGR2019Tmpl8.exe.config
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\bin\Debug\INFOGR2019Tmpl8.exe
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\bin\Debug\INFOGR2019Tmpl8.pdb
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\bin\Debug\OpenTK.dll
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\bin\Debug\OpenTK.pdb
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\bin\Debug\OpenTK.xml
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\obj\Debug\Template.csprojAssemblyReference.cache
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\obj\Debug\Template.csproj.CopyComplete
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\obj\Debug\INFOGR2019Tmpl8.exe
+C:\Users\lmdpi\source\Graphics\sullyjs\graphics2\obj\Debug\INFOGR2019Tmpl8.pdb
